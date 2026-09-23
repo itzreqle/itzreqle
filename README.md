@@ -5,20 +5,20 @@
 <td width="64%" valign="middle">
 <p><sub>RECRUITER SIGNAL BRIEF · itzreqle</sub></p>
 <h1>Siavash Shokrtalab</h1>
-<h2>Cloud Platform Engineer · Founder &amp; CTO, Flowbit</h2>
-<p>Building a multi-tenant Developer Cloud control plane — auth, billing, storage, managed data, deployments, edge runtimes, and observability — plus modular LLM / RAG systems and enterprise BPMN ERP delivery.</p>
-<p><strong>● TypeScript · NestJS · Next.js · Docker / Kubernetes · AI platforms</strong></p>
+<h2>Cloud Platform Engineer · Founder &amp; CTO, flowbit</h2>
+<p>Cloud Platform Engineer and Founder &amp; CTO of flowbit — 8+ years building developer infrastructure, AI platforms, and full-stack systems. Primary stack: TypeScript, NestJS, Next.js, Docker/Kubernetes.</p>
+<p><strong>● Building multi-tenant cloud control planes and agentic AI systems in public</strong></p>
 <p><sub>Tehran, Iran · Open to thoughtful platform and infrastructure roles</sub></p>
 <p>
 <a href="mailto:Kingreqle@gmail.com">Email</a> ·
 <a href="https://github.com/itzreqle">GitHub</a> ·
-<a href="https://github.com/flowbit-io">Flowbit</a>
+<a href="https://github.com/flowbit-io">flowbit</a>
 </p>
 </td>
 <td width="36%" valign="middle" align="center">
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/portrait?username=itzreqle&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F47079861%3Fu%3Db52947f264e990ac74a02c216e0f63f29716aa4f%26v%3D4&color=1&v=recruiter-portrait-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/portrait?username=itzreqle&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F47079861%3Fu%3Db52947f264e990ac74a02c216e0f63f29716aa4f%26v%3D4&color=1&v=recruiter-portrait-1&mode=dark" width="240px" alt="Siavash animated colored ASCII portrait" />
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/portrait?username=itzreqle&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F47079861%3Fv%3D4&color=1&v=recruiter-portrait-2&mode=light" />
+  <img src="https://www.gitskins.com/api/section/portrait?username=itzreqle&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F47079861%3Fv%3D4&color=1&v=recruiter-portrait-2&mode=dark" width="240px" alt="Siavash animated colored ASCII portrait" />
 </picture>
 </td>
 </tr>
@@ -28,7 +28,7 @@
 
 ## What I do now
 
-**Founder & CTO @ [Flowbit](https://github.com/flowbit-io)** (2024 – Present) — architecting a multi-tenant Developer Cloud Platform: NestJS + OpenAPI control plane, Next.js dashboard, Drizzle/PostgreSQL, replaceable infra providers (Docker, MinIO, workerd, Traefik, Loki), dual-rail billing, GitHub App deployments, cloud shell, Edge Functions, and self-hosted GitLab CE + Runner for team CI/CD.
+**Founder & CTO @ [flowbit](https://github.com/flowbit-io)** (2024 – Present) — architecting a multi-tenant Developer Cloud Platform: NestJS + OpenAPI control plane, Next.js dashboard, Drizzle/PostgreSQL, replaceable infra providers (Docker, MinIO, workerd, Traefik, Loki), dual-rail billing, GitHub App deployments, cloud shell, Edge Functions, and self-hosted GitLab CE + Runner for team CI/CD.
 
 Also shipping enterprise **BPMN ERP** (NestJS / Next.js / MongoDB / Redis / Elasticsearch) under NDA, and modular **LLM + dynamic RAG** systems (LangChain, LangGraph, hybrid vector retrieval, STT/TTS including Whisper).
 
@@ -49,7 +49,7 @@ Also shipping enterprise **BPMN ERP** (NestJS / Next.js / MongoDB / Redis / Elas
 <tr>
 <td width="50%" valign="top">
 
-### [Flowbit Developer Cloud](https://github.com/flowbit-io)
+### [flowbit Developer Cloud](https://github.com/flowbit-io)
 Multi-tenant PaaS control plane: auth, orgs/projects, billing (Stripe + Zarinpal), object storage, multi-engine managed DBs, secrets vault, Docker + GitHub App builds, WebSocket cloud shell, workerd Edge Functions, unified logs, custom domains. OpenAPI-first APIs with replaceable providers.
 
 <sub>NestJS · Next.js · Drizzle · Docker · Traefik · Loki</sub>
@@ -118,11 +118,20 @@ Also: Podica (React Native podcast app), TriAxis (Three.js categorical viz), Tel
 
 **Architecture** — Control plane / data plane, multi-tenant SaaS, replaceable provider adapters, BPMN workflows, microservices, GitOps path
 
+## Consistency signal
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=itzreqle&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F47079861%3Fv%3D4&v=recruiter-heatmap-2&mode=light" />
+  <img src="https://www.gitskins.com/api/section/heatmap?username=itzreqle&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F47079861%3Fv%3D4&v=recruiter-heatmap-2&mode=dark" width="100%" alt="Siavash contribution activity" />
+</picture>
+</p>
+
 ## Background
 
 | | |
 | --- | --- |
-| **Flowbit** | Founder & CTO · 2024 – Present |
+| **flowbit** | Founder & CTO · 2024 – Present |
 | **Enterprise BPMN ERP** | Full-Stack / Platform Engineer · 2025 – 2026 |
 | **Soren Group** | Software Developer · travel platform (50k+ MAU), IoT · 2022 – 2024 |
 | **Dabelclick.co** | Software Developer · REST APIs & data performance · 2021 – 2022 |
