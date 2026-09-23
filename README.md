@@ -124,7 +124,42 @@ Embedding evaluation (PCA, clustering, similarity) and FMSS — Financial Manage
 
 Also: Podica (React Native podcast app), TriAxis (Three.js categorical viz), Telegram AI bots (ChatGPT / Claude / translation + voice), headless commerce on WordPress APIs, and agentic CI (MCP, `AGENTS.md` / `SKILL.md`).
 
+## Proof at a glance
+
+<table width="100%">
+<tr>
+<td width="25%" align="center"><strong>50</strong><br /><sub>Public repositories</sub></td>
+<td width="25%" align="center"><strong>12</strong><br /><sub>Stars (owned)</sub></td>
+<td width="25%" align="center"><strong>12,012</strong><br /><sub>Contributions</sub></td>
+<td width="25%" align="center"><strong>8</strong><br /><sub>Followers</sub></td>
+</tr>
+</table>
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=itzreqle&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F47079861%3Fv%3D4&v=recruiter-stats-2&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stats?username=itzreqle&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F47079861%3Fv%3D4&v=recruiter-stats-2&mode=dark" width="100%" alt="Siavash GitHub proof metrics" />
+</picture>
+</p>
+
 ## Technical toolkit
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=itzreqle&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F47079861%3Fv%3D4&v=recruiter-stack-2&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stack?username=itzreqle&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F47079861%3Fv%3D4&v=recruiter-stack-2&mode=dark" width="100%" alt="Siavash technology stack" />
+</picture>
+</p>
+
+<table width="100%">
+<tr>
+<td width="20%" align="center"><strong>TypeScript</strong><br /><sub>Primary · NestJS / Next.js / flowbit</sub></td>
+<td width="20%" align="center"><strong>Python</strong><br /><sub>AI · RAG · FastAPI tooling</sub></td>
+<td width="20%" align="center"><strong>PHP</strong><br /><sub>PocketBase SDKs · CMS</sub></td>
+<td width="20%" align="center"><strong>SQL / Data</strong><br /><sub>Postgres · ClickHouse · Redis</sub></td>
+<td width="20%" align="center"><strong>Shell</strong><br /><sub>Ops · CI · Linux automation</sub></td>
+</tr>
+</table>
 
 **Languages & frameworks** — TypeScript, NestJS, Next.js, React, React Native, Node.js, Python, FastAPI, PHP, OpenAPI-first APIs, Drizzle, Strapi, Better Auth
 
