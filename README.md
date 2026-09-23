@@ -32,6 +32,26 @@
 
 Also shipping enterprise **BPMN ERP** (NestJS / Next.js / MongoDB / Redis / Elasticsearch) under NDA, and modular **LLM + dynamic RAG** systems (LangChain, LangGraph, hybrid vector retrieval, STT/TTS including Whisper).
 
+## Roles & positions
+
+Deep-dive pages from the full archive (all details preserved).
+
+### Roles
+
+- [Cloud / Platform](roles/cloud-platform.md)
+- [DevOps & Infrastructure](roles/devops.md)
+- [AI / LLM Infrastructure](roles/ai.md)
+- [Backend & APIs](roles/backend.md)
+- [Full-Stack](roles/fullstack.md)
+
+### Experience
+
+- [flowbit — Founder & CTO](experience/flowbit.md)
+- [Enterprise BPMN ERP](experience/enterprise-bpmn-erp.md)
+- [Soren Group](experience/soren-group.md)
+- [Dabelclick.co](experience/dabelclick.md)
+- [Freelance](experience/freelance.md)
+
 ## Role fit
 
 | Focus | Stack |
